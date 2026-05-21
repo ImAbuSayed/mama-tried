@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mama-tried/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Mama Tried](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mama-tried/) |
+| **Get License** | [Commercial Licensing for Mama Tried](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mama-tried/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `be838e16c525c70713683da7796b509372104d1ebd6f146c20676a76c579de14` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
