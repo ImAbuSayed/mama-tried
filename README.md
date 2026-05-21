@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mama-tried/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Mama Tried](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mama-tried/) |
+| **Get License** | [Music Rights & Licensing for Mama Tried](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mama-tried/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight riding down a neon street
+> Feel the heat every time our bodies meet
+> Got the windows down and the radio high
+> You're the only star in my southern sky
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
